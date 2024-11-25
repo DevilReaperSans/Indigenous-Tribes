@@ -28,8 +28,8 @@ NationIcons/Aliens
 NationIcons/The Crow
   rotate: false
   xy: 4, 112
-  size: 1400, 840
-  orig: 1400, 840
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Phasers
